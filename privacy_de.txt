@@ -1,7 +1,7 @@
 **Intro**
 
 Die Verarbeitung personenbezogener Daten ist für die Erbringung von Diensten zumeist unerlässlich.
-Auch im Rahmen der von dieser Vereinbahrung betroffenen Dienste können personenbezogene Daten verarbeitet werden.
+Auch im Rahmen der von dieser Vereinbarung betroffenen Dienste können personenbezogene Daten verarbeitet werden.
 Dazu sollen die folgenden Fragen geklärt werden.
 
 Welche personenbezogenen Daten werden verarbeitet?
@@ -12,7 +12,7 @@ Wer ist verantwortlich?
 
 **Welche personenbezogenen Daten werden verarbeitet?**
 
-Wir verarbeiten aktuell keine personbezogenen Daten.
+Wir verarbeiten aktuell keine personenbezogenen Daten.
 
 **Was sind Ihre Rechte?**
 
