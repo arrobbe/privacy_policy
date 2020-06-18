@@ -9,9 +9,9 @@
 <body>
 	<header>
 		<div class="navbar">
-			<a href="privacy_de.html">Datenschutzerklärung</a>
-			<a href="privacy_en.html">Privacy Policy</a>
-			<a href="contact.html">Impressum</a>
+			<a href="privacy_de">Datenschutzerklärung</a>
+			<a href="privacy_en">Privacy Policy</a>
+			<a href="contact">Impressum</a>
 		</div>
 		<br>
 		<br>
